@@ -2,7 +2,10 @@
 - 👀 I’m interested in Coding to solve real life problems.
 - 🌱 I’m currently pursuing a Bachelors of Technology in CSE (AI&ML).
 - 💞️ I’m looking to collaborate on doing projects and help me get better at code for now.
-- 📫 How to reach me - aditya.freelance@yahoo.com
+- 📫 How to reach me for collaboration -aditya.freelance@yahoo.com
+- 📫 How to reach me - sah_aditya@yahoo.com (Personal)
+- 
+- 
 
 <!---
 sah-aditya/sah-aditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
